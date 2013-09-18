@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_controls.html#a0d15c5114f2bef6b95db93a2c8c8e229" title="reset game slot" alt="" coords="248,5,453,35"/>
+<area shape="rect" id="node5" href="$class_game_controls.html#a02cf28f907e707c978091b821142e911" title="ctor basically we create a GameLogic and parent it to this window so our GameLogic..." alt="" coords="501,5,725,35"/>
+</map>

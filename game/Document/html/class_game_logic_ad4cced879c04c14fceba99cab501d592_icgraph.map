@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_controls.html#a8952372fb98f4320cff22e3ac3cf179a" title="difficulty advanced radio" alt="" coords="247,5,524,35"/>
+<area shape="rect" id="node5" href="$class_game_controls.html#a6fdc5132acf2edf667bb7f97fa46cb67" title="difficulty beginner radio" alt="" coords="249,59,521,88"/>
+<area shape="rect" id="node7" href="$class_game_controls.html#a0f2ccc9a2622e3213e4b4dcf1152e029" title="start game slot" alt="" coords="284,112,487,141"/>
+<area shape="rect" id="node9" href="$class_game_controls.html#a02cf28f907e707c978091b821142e911" title="ctor basically we create a GameLogic and parent it to this window so our GameLogic..." alt="" coords="573,112,797,141"/>
+</map>

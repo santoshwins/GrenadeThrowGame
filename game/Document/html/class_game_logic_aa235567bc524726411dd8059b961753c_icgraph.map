@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_controls.html#aad41f9191b6c54331e251f39b4bf020f" title="override the keyPressEvent inherited from QObject so we can handle key presses." alt="" coords="289,5,519,35"/>
+<area shape="rect" id="node5" href="$class_game_controls.html#aea100b68d1f3241aa0063d61c20b005e" title="GameControls::keyReleaseEvent" alt="" coords="281,59,527,88"/>
+<area shape="rect" id="node7" href="$class_game_logic.html#a8366255b284482cd75a6ac6edd93682e" title="this is the main gl drawing routine which is called whenever the window needs to..." alt="" coords="325,112,483,141"/>
+<area shape="rect" id="node9" href="$class_game_controls.html#a3b40f56fc518098f21dcdc20daca5c3b" title="timerEvent to process the elapsed timers" alt="" coords="301,165,507,195"/>
+</map>

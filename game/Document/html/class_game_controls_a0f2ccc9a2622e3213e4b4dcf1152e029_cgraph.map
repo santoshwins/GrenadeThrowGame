@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_controls.html#ae7fe18ba48794272f934e8f1add5c372" title="construct the gl(GameLogic) window" alt="" coords="256,5,515,35"/>
+<area shape="rect" id="node5" href="$class_game_logic.html#ad4cced879c04c14fceba99cab501d592" title="set the current difficulty" alt="" coords="291,59,480,88"/>
+<area shape="rect" id="node7" href="$class_game_logic.html#aff7755894d899303afa6009c14a91e7b" title="set the currnt level from ui" alt="" coords="303,112,468,141"/>
+<area shape="rect" id="node9" href="$class_game_controls.html#a49f82c78d9cf95c6bb4650be116e045f" title="sets the progress bar to reflect the loading progress" alt="" coords="269,165,501,195"/>
+<area shape="rect" id="node11" href="$class_game_logic.html#af9e51d107443a83cb00c3e083003b99b" title="gets the flag to check if the game is started or not" alt="" coords="563,165,813,195"/>
+</map>

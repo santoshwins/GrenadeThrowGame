@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_logic.html#aa5282f4ad33c5f9590b43de8c05054e0" title="set detach camera flag" alt="" coords="275,5,493,35"/>
+<area shape="rect" id="node5" href="$class_game_controls.html#afe50c1b22cd7823aa92ffc89c427a0e4" title="to detach the camera" alt="" coords="541,5,827,35"/>
+<area shape="rect" id="node7" href="$class_game_controls.html#a02cf28f907e707c978091b821142e911" title="ctor basically we create a GameLogic and parent it to this window so our GameLogic..." alt="" coords="875,5,1099,35"/>
+</map>
