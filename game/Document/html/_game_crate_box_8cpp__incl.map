@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_game_crate_box_8h.html" title="GameCrateBox.h" alt="" coords="313,83,452,112"/>
-<area shape="rect" id="node5" href="$_game_obstacles_8h.html" title="GameObstacles.h" alt="" coords="312,160,453,189"/>
-<area shape="rect" id="node7" href="$_game_model_8h.html" title="GameModel.h" alt="" coords="325,237,440,267"/>
-<area shape="rect" id="node9" href="$_game_draw_engine_8h.html" title="GameDrawEngine.h" alt="" coords="305,315,460,344"/>
-<area shape="rect" id="node19" href="$_game_physics_engine_8h.html" title="GamePhysicsEngine.h" alt="" coords="465,392,633,421"/>
-</map>

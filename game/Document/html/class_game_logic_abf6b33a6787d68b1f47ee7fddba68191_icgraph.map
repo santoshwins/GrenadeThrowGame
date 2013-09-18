@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_controls.html#a6230bdddf5ed3c0365a9af897173afaa" title="sets the wind value got from gamelogic to reflect on the ui" alt="" coords="255,5,593,35"/>
-<area shape="rect" id="node5" href="$class_game_controls.html#a3b40f56fc518098f21dcdc20daca5c3b" title="timerEvent to process the elapsed timers" alt="" coords="644,5,849,35"/>
-</map>

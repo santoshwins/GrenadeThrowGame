@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_controls.html#aad41f9191b6c54331e251f39b4bf020f" title="override the keyPressEvent inherited from QObject so we can handle key presses." alt="" coords="336,5,565,35"/>
-<area shape="rect" id="node5" href="$class_game_controls.html#a6230bdddf5ed3c0365a9af897173afaa" title="sets the wind value got from gamelogic to reflect on the ui" alt="" coords="281,59,620,88"/>
-<area shape="rect" id="node7" href="$class_game_controls.html#a3b40f56fc518098f21dcdc20daca5c3b" title="timerEvent to process the elapsed timers" alt="" coords="671,59,876,88"/>
-</map>

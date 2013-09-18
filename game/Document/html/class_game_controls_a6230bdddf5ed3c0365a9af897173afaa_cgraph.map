@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_logic.html#a86bd3eef19842a4c5ca4a704b9b58eba" title="gets the flag to check if the game is in simulation( in air )" alt="" coords="395,5,621,35"/>
-<area shape="rect" id="node7" href="$class_game_logic.html#abf6b33a6787d68b1f47ee7fddba68191" title="sets the wind value" alt="" coords="409,59,607,88"/>
-<area shape="rect" id="node5" href="$class_game_physics_engine.html#a2729eba373dffed2dd0164dc88ee8d1e" title="gets the simulation flag" alt="" coords="671,5,956,35"/>
-</map>

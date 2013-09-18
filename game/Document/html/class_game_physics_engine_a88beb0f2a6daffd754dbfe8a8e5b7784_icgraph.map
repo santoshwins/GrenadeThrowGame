@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_level.html#a385ffa4f76843df3b63c50ac58670d08" title="draw the level" alt="" coords="384,5,563,35"/>
-<area shape="rect" id="node5" href="$class_game_logic.html#a8366255b284482cd75a6ac6edd93682e" title="this is the main gl drawing routine which is called whenever the window needs to..." alt="" coords="612,5,769,35"/>
-</map>

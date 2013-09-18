@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_game_obstacles.html" title="GameObstacles class is the class handling the creation of the obstacle(tanks) at..." alt="" coords="16,936,171,1056"/>
-<area shape="rect" id="node4" href="$class_game_model.html" title="GameModel class handles the features of the game models passed into it as objs,textures..." alt="" coords="7,419,180,885"/>
-<area shape="rect" id="node6" href="$class_game_draw_engine.html" title="GameDrawEngine class handles the actual drawing of all the mesh/data passed into..." alt="" coords="5,6,181,351"/>
-</map>

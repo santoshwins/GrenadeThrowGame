@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_level.html#a7ad4e66a292b87bd318207e2762dffcc" title="keep accumulating direction" alt="" coords="352,5,603,35"/>
-<area shape="rect" id="node9" href="$class_game_level.html#a385ffa4f76843df3b63c50ac58670d08" title="draw the level" alt="" coords="388,59,567,88"/>
-<area shape="rect" id="node5" href="$class_game_logic.html#adef9543fbb45f1f581b70099bb08fca1" title="processKeyDown passed from the main window class" alt="" coords="652,5,873,35"/>
-<area shape="rect" id="node7" href="$class_game_controls.html#aad41f9191b6c54331e251f39b4bf020f" title="override the keyPressEvent inherited from QObject so we can handle key presses." alt="" coords="924,5,1153,35"/>
-<area shape="rect" id="node11" href="$class_game_logic.html#a8366255b284482cd75a6ac6edd93682e" title="this is the main gl drawing routine which is called whenever the window needs to..." alt="" coords="684,59,841,88"/>
-</map>

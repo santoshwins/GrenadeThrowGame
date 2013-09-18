@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_obstacles.html" title="GameObstacles class is the class handling the creation of the obstacle(tanks) at..." alt="" coords="5,520,160,640"/>
-<area shape="rect" id="node7" href="$class_game_player.html" title="GamePlayer class is the main hero class handling the creationg of grenade instantiated..." alt="" coords="184,520,312,640"/>
-<area shape="rect" id="node5" href="$class_game_crate_box.html" title="GameCrateBox class handles the creation (cloning) of the ammunition at a position..." alt="" coords="8,688,157,808"/>
-</map>

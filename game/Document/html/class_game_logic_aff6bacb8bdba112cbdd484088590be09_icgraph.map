@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_logic.html#a57ea7931fe82d3064d5836bad56883a6" title="The following methods must be implimented in the sub class this is called when the..." alt="" coords="300,5,479,35"/>
-<area shape="rect" id="node5" href="$class_game_logic.html#adef9543fbb45f1f581b70099bb08fca1" title="processKeyDown passed from the main window class" alt="" coords="279,59,500,88"/>
-<area shape="rect" id="node9" href="$class_game_controls.html#a99800bd206edbb98e54ee9cc762ba889" title="to set the current selected camera" alt="" coords="264,112,515,141"/>
-<area shape="rect" id="node7" href="$class_game_controls.html#aad41f9191b6c54331e251f39b4bf020f" title="override the keyPressEvent inherited from QObject so we can handle key presses." alt="" coords="564,59,793,88"/>
-<area shape="rect" id="node11" href="$class_game_controls.html#a02cf28f907e707c978091b821142e911" title="ctor basically we create a GameLogic and parent it to this window so our GameLogic..." alt="" coords="567,112,791,141"/>
-</map>
