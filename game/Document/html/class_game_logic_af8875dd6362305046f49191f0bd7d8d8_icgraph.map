@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_controls.html#aad41f9191b6c54331e251f39b4bf020f" title="override the keyPressEvent inherited from QObject so we can handle key presses." alt="" coords="292,5,521,35"/>
+<area shape="rect" id="node5" href="$class_game_controls.html#aea100b68d1f3241aa0063d61c20b005e" title="GameControls::keyReleaseEvent" alt="" coords="284,59,529,88"/>
+</map>

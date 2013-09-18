@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_controls.html#a0d15c5114f2bef6b95db93a2c8c8e229" title="reset game slot" alt="" coords="317,5,523,35"/>
+<area shape="rect" id="node7" href="$class_game_controls.html#a99800bd206edbb98e54ee9cc762ba889" title="to set the current selected camera" alt="" coords="295,59,545,88"/>
+<area shape="rect" id="node13" href="$class_game_controls.html#afe50c1b22cd7823aa92ffc89c427a0e4" title="to detach the camera" alt="" coords="277,112,563,141"/>
+<area shape="rect" id="node19" href="$class_game_controls.html#aeb0e812c7541642eca71439ddfb26063" title="level number display" alt="" coords="303,165,537,195"/>
+<area shape="rect" id="node21" href="$class_game_controls.html#a0f2ccc9a2622e3213e4b4dcf1152e029" title="start game slot" alt="" coords="319,219,521,248"/>
+<area shape="rect" id="node5" href="$class_game_logic.html#a63a7acf778535b5f74d469de2cd39b16" title="dtor add any code here to tidy up" alt="" coords="644,5,836,35"/>
+<area shape="rect" id="node9" href="$class_game_logic.html#aff6bacb8bdba112cbdd484088590be09" title="change the camera" alt="" coords="636,59,844,88"/>
+<area shape="rect" id="node11" href="$class_game_draw_engine.html#a4de3fe07186edb73efab9cc59801e12e" title="adds cameras to a repository" alt="" coords="917,59,1168,88"/>
+<area shape="rect" id="node15" href="$class_game_logic.html#aa5282f4ad33c5f9590b43de8c05054e0" title="set detach camera flag" alt="" coords="631,112,849,141"/>
+<area shape="rect" id="node17" href="$class_game_level.html#a5e375e435d739495eec2ae58df46021a" title="set the free cam flag" alt="" coords="933,112,1152,141"/>
+<area shape="rect" id="node23" href="$class_game_controls.html#ae7fe18ba48794272f934e8f1add5c372" title="construct the gl(GameLogic) window" alt="" coords="611,165,869,195"/>
+<area shape="rect" id="node25" href="$class_game_logic.html#ad4cced879c04c14fceba99cab501d592" title="set the current difficulty" alt="" coords="645,219,835,248"/>
+<area shape="rect" id="node27" href="$class_game_logic.html#aff7755894d899303afa6009c14a91e7b" title="set the currnt level from ui" alt="" coords="657,272,823,301"/>
+<area shape="rect" id="node29" href="$class_game_controls.html#a49f82c78d9cf95c6bb4650be116e045f" title="sets the progress bar to reflect the loading progress" alt="" coords="624,325,856,355"/>
+<area shape="rect" id="node31" href="$class_game_logic.html#af9e51d107443a83cb00c3e083003b99b" title="gets the flag to check if the game is started or not" alt="" coords="917,325,1168,355"/>
+</map>

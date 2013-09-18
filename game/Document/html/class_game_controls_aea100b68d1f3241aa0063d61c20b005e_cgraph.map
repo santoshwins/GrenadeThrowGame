@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_logic.html#af8875dd6362305046f49191f0bd7d8d8" title="gets the game lost flag to display appropriate message to usr" alt="" coords="303,5,529,35"/>
+<area shape="rect" id="node5" href="$class_game_logic.html#aa235567bc524726411dd8059b961753c" title="gets the game won flag when queried" alt="" coords="303,59,529,88"/>
+<area shape="rect" id="node9" href="$class_game_logic.html#aa984d8fe58a738309cb8173a4811e8fd" title="processKeyUp passed from the main window class" alt="" coords="316,112,516,141"/>
+<area shape="rect" id="node7" href="$class_game_physics_engine.html#a92d0a1eab2520787fb12d8d67819b4ce" title="get the game won flag if grenade hits the ammunition" alt="" coords="580,59,865,88"/>
+</map>

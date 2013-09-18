@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_physics_engine.html#a39280c8be4b9320e672778fe95b90956" title="sets the game won flag when grande hits amunition box" alt="" coords="351,5,636,35"/>
+<area shape="rect" id="node5" href="$class_game_physics_engine.html#a3a8380a8fb5387d5548eae4a50f6041b" title="sets the grenade obstacle count value used for scoring" alt="" coords="315,59,672,88"/>
+</map>

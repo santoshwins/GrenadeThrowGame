@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_game_crate_box.html" title="GameCrateBox class handles the creation (cloning) of the ammunition at a position..." alt="" coords="17,688,167,808"/>
+<area shape="rect" id="node2" href="$class_game_model.html" title="GameModel class handles the features of the game models passed into it as objs,textures..." alt="" coords="5,5,179,472"/>
+</map>
