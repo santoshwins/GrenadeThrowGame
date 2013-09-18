@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_logic.html#a16a4d5c41732ab93b240c1a03a339a67" title="gets the grande life" alt="" coords="297,5,561,35"/>
-<area shape="rect" id="node5" href="$class_game_physics_engine.html#adc49e1c75ddc169e495dc8830b70bf51" title="gets the obstacle count value used for scoring" alt="" coords="612,5,969,35"/>
-</map>

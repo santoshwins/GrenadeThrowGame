@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_level.html#a58e50c8e22b9d4a1c2c239b27e891458" title="draw module to draw all the extras such as graphic images and anti bullet objs" alt="" coords="363,5,547,35"/>
-<area shape="rect" id="node9" href="$class_game_logic.html#a86bd3eef19842a4c5ca4a704b9b58eba" title="gets the flag to check if the game is in simulation( in air )" alt="" coords="341,59,568,88"/>
-<area shape="rect" id="node5" href="$class_game_level.html#a385ffa4f76843df3b63c50ac58670d08" title="draw the level" alt="" coords="697,5,876,35"/>
-<area shape="rect" id="node7" href="$class_game_logic.html#a8366255b284482cd75a6ac6edd93682e" title="this is the main gl drawing routine which is called whenever the window needs to..." alt="" coords="1031,5,1188,35"/>
-<area shape="rect" id="node11" href="$class_game_controls.html#aad41f9191b6c54331e251f39b4bf020f" title="override the keyPressEvent inherited from QObject so we can handle key presses." alt="" coords="672,59,901,88"/>
-<area shape="rect" id="node13" href="$class_game_controls.html#a6230bdddf5ed3c0365a9af897173afaa" title="sets the wind value got from gamelogic to reflect on the ui" alt="" coords="617,112,956,141"/>
-<area shape="rect" id="node15" href="$class_game_controls.html#a3b40f56fc518098f21dcdc20daca5c3b" title="timerEvent to process the elapsed timers" alt="" coords="1007,112,1212,141"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_physics_engine.html#a3c5f653f3088c5f13b0f5df401f6b574" title="sense the collison using continuous collision detection" alt="" coords="255,32,513,61"/>
-<area shape="rect" id="node5" href="$class_game_physics_engine.html#a39280c8be4b9320e672778fe95b90956" title="sets the game won flag when grande hits amunition box" alt="" coords="599,5,884,35"/>
-<area shape="rect" id="node7" href="$class_game_physics_engine.html#a3a8380a8fb5387d5548eae4a50f6041b" title="sets the grenade obstacle count value used for scoring" alt="" coords="563,59,920,88"/>
-</map>

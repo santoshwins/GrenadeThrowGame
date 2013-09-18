@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_game_player_8h.html" title="GamePlayer.h" alt="" coords="325,83,440,112"/>
-<area shape="rect" id="node5" href="$_game_model_8h.html" title="GameModel.h" alt="" coords="325,160,440,189"/>
-<area shape="rect" id="node7" href="$_game_draw_engine_8h.html" title="GameDrawEngine.h" alt="" coords="305,237,460,267"/>
-<area shape="rect" id="node17" href="$_game_physics_engine_8h.html" title="GamePhysicsEngine.h" alt="" coords="465,315,633,344"/>
-</map>

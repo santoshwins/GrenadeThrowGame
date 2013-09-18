@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_controls.html#a0f2ccc9a2622e3213e4b4dcf1152e029" title="start game slot" alt="" coords="288,5,491,35"/>
-<area shape="rect" id="node7" href="$class_game_controls.html#a3b40f56fc518098f21dcdc20daca5c3b" title="timerEvent to process the elapsed timers" alt="" coords="287,59,492,88"/>
-<area shape="rect" id="node5" href="$class_game_controls.html#a02cf28f907e707c978091b821142e911" title="ctor basically we create a GameLogic and parent it to this window so our GameLogic..." alt="" coords="541,5,765,35"/>
-</map>

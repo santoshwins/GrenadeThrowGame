@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_game_logic_8h.html" title="GameLogic.h" alt="" coords="1201,83,1311,112"/>
-<area shape="rect" id="node40" href="$_game_physics_engine_8h.html" title="GamePhysicsEngine.h" alt="" coords="627,392,795,421"/>
-<area shape="rect" id="node31" href="$_game_model_8h.html" title="GameModel.h" alt="" coords="775,237,889,267"/>
-<area shape="rect" id="node33" href="$_game_draw_engine_8h.html" title="GameDrawEngine.h" alt="" coords="869,315,1024,344"/>
-<area shape="rect" id="node60" href="$_game_player_8h.html" title="GamePlayer.h" alt="" coords="960,160,1075,189"/>
-<area shape="rect" id="node63" href="$_game_obstacles_8h.html" title="GameObstacles.h" alt="" coords="744,160,885,189"/>
-<area shape="rect" id="node67" href="$_game_level_8h.html" title="GameLevel.h" alt="" coords="611,160,720,189"/>
-</map>

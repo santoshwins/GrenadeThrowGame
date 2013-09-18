@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_level.html#a385ffa4f76843df3b63c50ac58670d08" title="draw the level" alt="" coords="971,5,1149,35"/>
-<area shape="rect" id="node7" href="$class_game_level.html#a48215d218a4558236ecfa4c96092873d" title="load the models which does not have anything to do with bullet using its own transform..." alt="" coords="305,31,687,60"/>
-<area shape="rect" id="node5" href="$class_game_logic.html#a8366255b284482cd75a6ac6edd93682e" title="this is the main gl drawing routine which is called whenever the window needs to..." alt="" coords="1199,5,1356,35"/>
-<area shape="rect" id="node9" href="$class_game_level.html#a58e50c8e22b9d4a1c2c239b27e891458" title="draw module to draw all the extras such as graphic images and anti bullet objs" alt="" coords="737,31,921,60"/>
-</map>
